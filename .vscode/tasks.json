@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "npm: debug",
+			"type": "npm",
+			"script": "debug",
+			"group": "build",
+			"problemMatcher": [],
+			"detail": "node ./util/build.js"
+		}
+	]
+}
